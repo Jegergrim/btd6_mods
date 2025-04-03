@@ -1,1 +1,1 @@
-press F8 to use
+press h to use
